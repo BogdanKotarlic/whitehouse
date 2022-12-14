@@ -61,16 +61,6 @@
     outline: none;
   }
 
-  ::-webkit-scrollbar{
-    width: 8px;
-    height: 8px;
-  }
-
-  ::-webkit-scrollbar-thumb {
-    cursor: pointer;
-    background: #202020;
-  }
-
   .overlay {
     background: linear-gradient(to top right, #fff, #575757);
     opacity: 0.9;
